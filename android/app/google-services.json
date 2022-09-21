@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355032837117",
+    "project_id": "western-super-market",
+    "storage_bucket": "western-super-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355032837117:android:5313ac43882151e21f0794",
+        "android_client_info": {
+          "package_name": "com.westernsupermarket.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355032837117-63pp7r53c5pv7a6g87s900gbpqru85vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqAqk-7l9o_fXcAxM8IvSMXRXXaN-Cpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355032837117-63pp7r53c5pv7a6g87s900gbpqru85vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
